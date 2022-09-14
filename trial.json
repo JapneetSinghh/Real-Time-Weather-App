@@ -1,0 +1,51 @@
+{
+  "location": {
+      "name": "Delhi",
+      "region": "Delhi",
+      "country": "India",
+      "lat": 28.67,
+      "lon": 77.22,
+      "tz_id": "Asia/Kolkata",
+      "localtime_epoch": 1657181372,
+      "localtime": "2022-07-07 13:39"
+  },
+  "current": {
+      "last_updated_epoch": 1657177200,
+      "last_updated": "2022-07-07 12:30",
+      "temp_c": 36.0,
+      "temp_f": 96.8,
+      "is_day": 1,
+      "condition": {
+          "text": "Mist",
+          "icon": "//cdn.weatherapi.com/weather/64x64/day/143.png",
+          "code": 1030
+      },
+      "wind_mph": 8.1,
+      "wind_kph": 13.0,
+      "wind_degree": 90,
+      "wind_dir": "E",
+      "pressure_mb": 1004.0,
+      "pressure_in": 29.65,
+      "precip_mm": 0.0,
+      "precip_in": 0.0,
+      "humidity": 50,
+      "cloud": 75,
+      "feelslike_c": 36.8,
+      "feelslike_f": 98.3,
+      "vis_km": 5.0,
+      "vis_miles": 3.0,
+      "uv": 10.0,
+      "gust_mph": 6.7,
+      "gust_kph": 10.8,
+      "air_quality": {
+          "co": 660.9000244140625,
+          "no2": 30.5,
+          "o3": 87.30000305175781,
+          "so2": 67.69999694824219,
+          "pm2_5": 31.0,
+          "pm10": 38.79999923706055,
+          "us-epa-index": 2,
+          "gb-defra-index": 3
+      }
+  }
+}
