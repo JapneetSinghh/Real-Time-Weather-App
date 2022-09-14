@@ -18,7 +18,7 @@
   /* bottom: 0; */
   width: 100%;
   min-height: 100%;
-  
+
 }
 video{
   object-fit: fill;
@@ -522,3 +522,13 @@ margin-top: none;
 
 }
 
+@media screen and (max-width:700px) {
+
+#myVideo{
+  display: none;
+}
+.content{
+  background:url(./pexels-ruvim-3560044.jpg) center center/cover no-repeat;
+  min-height: 100vh;
+}
+}
